@@ -26,4 +26,4 @@ JavaScript: To implement dynamic and interactive features.
 
 Node.js and Express: For the backend functionality, enabling server-side rendering, handling routes, and managing API calls.
 
-![Image](https://github.com/user-attachments/assets/c51e9e8c-8669-448d-9c46-4044209eee1a)
+![Image](https://github.com/user-attachments/assets/87575909-4d82-489f-98d3-279f7946ef28)
